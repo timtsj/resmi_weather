@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">resmi_weather</string>
+    <string name="app_name">RESMI Weather</string>
     <string name="enter_city_hint">Enter city name</string>
     <string name="action_refresh">refresh</string>
 </resources>
